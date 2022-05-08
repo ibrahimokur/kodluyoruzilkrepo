@@ -13,9 +13,9 @@ Ne yapacağımı tam olarak anlamadım.
 printf("Hello World")
 ```
 
-[link bilgisi](https//:google.com)
+[link bilgisi](https://google.com)
 
-[Google gitmek için tıklayınız](https//:google.com)
+[Google gitmek için tıklayınız](https://google.com)
 
 ![Mitolojik Görsel](https://www.yogadergisi.com/images/document/mitos/mythos.jpg)
 
